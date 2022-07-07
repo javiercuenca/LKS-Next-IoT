@@ -1,0 +1,36 @@
+{
+	"workers": [
+	
+		{
+			"name":"Javier",
+			"surname": "Cuenca",
+			"role": "Teacher",
+			"department": "Informatics and electronics"
+		},
+		
+		{
+			"name": "Maitane",
+			"surname": "Goikoetxea",
+			"role": "Student",
+			"department": "Biomedics"
+		},
+		
+		{
+			"name":"Monse",
+			"surname": "Ereño",
+			"role": "Teacher",
+			"department": "Informatics and electronics"
+		},
+		
+		{
+			"name": "Miguel",
+			"surname": "Fernandez",
+			"role": "Student",
+			"department": "Biomedics"
+		}
+		
+	]
+
+}
+
+

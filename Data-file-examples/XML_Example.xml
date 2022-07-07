@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<university_staff>
+	<Worker> 
+		<name>Javier</name>
+		<surname>Cuenca</surname>
+		<role>Teacher</role>
+		<department>Informatics and electronics</department>
+	</Worker>
+	<Worker>
+		<name>Maitane</name>
+		<surname>Goikoetxea</surname>
+		<role>Student</role>
+		<department>Biomedics</department>
+	</Worker>
+	<Worker>
+		<name>Monse</name>
+		<surname>Ereño</surname>
+		<role>Teacher</role>
+		<department>Informatics and electronics</department>
+	</Worker>
+	<Worker>
+		<name>Miguel</name>
+		<surname>Fernández</surname>
+		<role>Student</role>
+		<department>Biomedics</department>
+	</Worker>
+</university_staff> 
